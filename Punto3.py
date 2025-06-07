@@ -2,6 +2,14 @@
 from Punto2 import GestorAportes
 
 """ 
+
+**Punto 3 (30%)**
+Implemente una solución recursiva en Python para el siguiente problema
+
+* Realice un algoritmo que permita insertar en un arbol binario,  el dinero recolectado por juan (en el punto 3, limite el tamaño de la lista a 25 elementos)
+
+* implemente una función que permita buscar entre los elementos del árbol, los aportes que realizo uno cualqueira de los benefactores  y  conocer cuanto fue el total aportado por dicho benefactor.
+
 Supuestos:
 
 Nos piden conocer el total de aportes realizados por un beneficiario específico, recorriendo un árbol binario.
